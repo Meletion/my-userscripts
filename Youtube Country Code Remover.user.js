@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         YT country code remover
+// @name         Youtube Country Code Remover
 // @namespace    https://meletion.github.io/bio
-// @version      1
+// @version      2
 // @description  Remove the country code icon from youtube`s logo
 // @author       Meletion
 // @match        https://*.youtube.com/*
